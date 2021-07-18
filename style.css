@@ -1,0 +1,38 @@
+body
+{
+ background-size: cover;
+
+}
+
+.note
+{
+ font-size: 15px;
+ color: darkorange;    
+}
+
+.heading
+{
+ margin:0px;
+ width:100%;
+ font-size: 23px;
+
+}
+canvas
+{
+border-radius: 10px;
+border: 2px solid red;
+margin-top: 130px;
+box-shadow: 5px 5px 5x grey;
+}
+
+.copy_right_footer
+{
+  position:fixed;
+  border-radius:15px;
+  width: 100%;
+  text-align: center;  
+  background-color: green;
+  bottom: 0;
+  line-height:3;
+  color: cornsilk;
+}
